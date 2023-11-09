@@ -15,4 +15,4 @@ The `acmrs.sh` script is a utility designed to automatically fix issues with Met
 2. Open `acmrs.sh` with a text editor and make sure `TARGET_DIR="/home/container/game/csgo"` matches the folder location of your csgo directory.
 3. Add the line `bash /home/container/game/acmrs.sh` at the top of your `cs2.sh` file, making sure the location is updated to the location of the script.
 
-[Imgur](https://imgur.com/837aOfZ)
+![Imgur](https://i.imgur.com/837aOfZ.png)
