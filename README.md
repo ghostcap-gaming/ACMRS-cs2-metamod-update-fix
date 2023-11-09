@@ -1,9 +1,9 @@
 # ACMRS - Automatic-CS2-Metamod-Re-Enable-Script
 
 ## Overview
-The `acmrs.sh` script is a utility designed to automatically fix issues with Metamod not loading after updates to Counter-Strike 2 (CS2). It modifies the `gameinfo.gi` file in your CS2 server directory automatically to ensure that Metamod loads correctly. This is exactly the same method we use [Game Host Bros](https://www.gamehostbros.com/) to keep our users updated. 
+The `acmrs.sh` script is a utility designed to automatically fix issues with Metamod not loading after updates to Counter-Strike 2 (CS2). It modifies the `gameinfo.gi` file in your CS2 server directory automatically to ensure that Metamod loads correctly. This is exactly the same method we use at [Game Host Bros](https://www.gamehostbros.com/) to keep our users updated. 
 
-*Please note: this is for linux only, but you could make the same thing using python and use it on anything.*
+*Please note: this is for linux only, but you could make the same thing using python and use it on any operating system.*
 
 ## Features
 - **Automatic Modification**: Automatically modifies the `gameinfo.gi` file on server start.
