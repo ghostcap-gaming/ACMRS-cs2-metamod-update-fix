@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET_DIR="/mnt/server/game/csgo"
+TARGET_DIR="/home/container/game/csgo"
 GAMEINFO_FILE="${TARGET_DIR}/gameinfo.gi"
 
 if [ ! -f "${GAMEINFO_FILE}" ]; then
